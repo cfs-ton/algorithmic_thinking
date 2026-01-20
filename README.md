@@ -1,1 +1,1 @@
-# algorithmic_thinking
+# Algorithmic Thinking & Introduction to object-Oriented Programming
